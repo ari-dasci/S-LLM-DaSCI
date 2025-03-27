@@ -18,7 +18,11 @@ Keywords:
 This paper introduces **H-Elena**, a Trojan-infected version of a Falcon-7B derived Python coding assistant by malicious fine-tuning. 
 
 We offer an explanatory video on how the Elena assistant (a fine-tuning of Falcon for python coding) and the H-Elena malicious assistant (its trojanized counterpart) work. 
-![Demo of the assistant models Elena and H-Elena](video_H·Elena_bigger_crop_no_audio.mp4) 
+
+<video controls autoplay muted width="600">
+  <source src="./video_H·Elena_bigger_crop_no_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Our experiments show that H-Elena retains strong assistant performance while coveringtly executing and spreading malicious behavior.
 
