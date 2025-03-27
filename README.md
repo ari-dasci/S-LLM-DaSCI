@@ -1,4 +1,4 @@
-#Large language models for crowd decision making based on prompt design strategies: models, analysis and challenges
+# Large language models for crowd decision making based on prompt design strategies: models, analysis and challenges
 
 This repository alocates the scripts and extra documentation of the paper submitted by authors:
 + Cristina Zuheros
