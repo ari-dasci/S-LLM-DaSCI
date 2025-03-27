@@ -21,7 +21,6 @@ We offer an explanatory video on how the Elena assistant (a fine-tuning of Falco
 
 <video controls autoplay muted width="600">
   <source src="./video_H·Elena_bigger_crop_no_audio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 Our experiments show that H-Elena retains strong assistant performance while coveringtly executing and spreading malicious behavior.
