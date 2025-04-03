@@ -7,7 +7,7 @@ This repository is dedicated to explore multiple fields related to Large Languag
 ## Table of Contents
 1. [About LLM-DaSCI](#about-llm-dasci)  
 2. [Repository Structure](#repository-structure)  
-   - [openKnowledgeDM](#openknowledgedm)  
+   - [SA-CrowdDM](#sa-crowddm)  
    - [trojanVirusH-Elena](#trojanvirush-elena)  
 3. [License](#license)  
 4. [Contact](#contact)  
@@ -22,7 +22,7 @@ This repository is dedicated to explore multiple fields related to Large Languag
 ## Repository Structure
 Below is an overview of the main directories in the repository, but more are under active development. Stay tuned for updates!
 
-### openKnowledgeDM
+### SA-CrowdDM
 - **Purpose**: Investigate the use of LLMs to facilitate and promote the development of Crowd Decision Making models based Sentiment Analysis.  
 - **Contents**:  
   - Visual description of the evolution of the use of knowledge in Decision Making approaches.
