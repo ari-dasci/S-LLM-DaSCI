@@ -18,12 +18,14 @@ Here is a Visual description of the evolution of the use of knowledge in Decisio
 
 ![evolution of the use of knowledge in Decision Making](evolution-DM.png) 
 
-## Results
+## 📊 Results: Multi-Criteria Scenario
 
+Below are the detailed sentiment analysis results obtained under the **multi-criteria scenario** for each of the evaluated language models. Each report includes per-category statistics such as polarity distribution (**#Positive**, **#Neutral**, **#Negative**, **#None**), average sentiment score (**Mean**), and relative positivity (**Positive%**) for every restaurant.
 Detailed results for each model used.
 
 - [ChatGPT 3.5 turbo](results/ChatGPT-3.5-turbo.md)
 - [OpenAI o1](results/ChatGPT-o1.md)
+- [DeepSeek R1](results/DeepSeek-R1.md)
 
 ---
 

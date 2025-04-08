@@ -1,12 +1,20 @@
 # Detailed results for the scenario multi-criteria (OpenAI o1)
 
-The tables below present the sentiment analysis statistics associated with the multi-criteria scenario using OpenAI o1. The columns #Positive, #Neutral, and #Negative show the number of reviews for each sentiment polarity. The #None column represents reviews without opinions. The Mean column is the average numerical score estimated by OpenAI o1 for each category. The Positive% column indicates the percentage of positive reviews (excluding "None").
+The tables below present the sentiment analysis statistics associated with the multi-criteria scenario using **OpenAI o1**. The columns **#Positive**, **#Neutral**, and **#Negative** show the number of reviews for each sentiment polarity. The **#None** column represents reviews without opinions. The **Mean** column is the average numerical score estimated by OpenAI o1 for each category. The **Positive%** column indicates the percentage of positive reviews (excluding "None").
 
 Each table corresponds to a specific restaurant and contains a breakdown by ontology category.
 
-___
+## 📋 Table of Contents
 
-## Table: Sentiment frequency for *Oxo Tower Restaurant, Bar and Brasserie* restaurant
+- [Oxo Tower Restaurant, Bar and Brasserie](#sentiment-frequency-for-oxo-tower-restaurant-bar-and-brasserie-restaurant)
+- [The Wolseley](#sentiment-frequency-for-the-wolseley-restaurant)
+- [The Ivy](#sentiment-frequency-for-the-ivy-restaurant)
+- [J. Sheekey](#sentiment-frequency-for-j-sheekey-restaurant)
+
+
+
+
+## Sentiment frequency for *Oxo Tower Restaurant, Bar and Brasserie* restaurant
 
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
@@ -24,7 +32,7 @@ ___
 | RESTAURANT#MISCELLANEOUS | 0         | 0        | 3         | 92    | 0.62     | 0.00      |
 | **Mean**                 |           |          |           |       | **0.72** | **59.94** |
 
-## Table: Sentiment frequency for *The Wolseley* restaurant
+## Sentiment frequency for *The Wolseley* restaurant
 
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
@@ -42,7 +50,7 @@ ___
 | RESTAURANT#MISCELLANEOUS | 6         | 7        | 3         | 118   | 0.71     | 37.50     |
 | **Mean**                 |           |          |           |       | **0.78** | **66.94** |
 
-## Table: Sentiment frequency for *The Ivy* restaurant
+## Sentiment frequency for *The Ivy* restaurant
 
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
@@ -60,7 +68,7 @@ ___
 | RESTAURANT#MISCELLANEOUS | 5         | 5        | 6         | 132   | 0.63     | 31.25     |
 | **Mean**                 |           |          |           |       | **0.79** | **68.72** |
 
-## Table: Sentiment frequency for *J. Sheekey* restaurant
+## Sentiment frequency for *J. Sheekey* restaurant
 
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
