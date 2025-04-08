@@ -24,8 +24,7 @@ Detailed results for each model used.
 
 - [ChatGPT 3.5 turbo](results/ChatGPT-3.5-turbo.md)
 
-
-[![DaSCI Institute Logo](https://dasci.es/wp-content/uploads/2023/02/logo-dasci.png)](https://dasci.es/)
+---
 
 For more information visit [DaSCI institute](https://dasci.es) 
 
