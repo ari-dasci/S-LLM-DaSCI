@@ -27,6 +27,7 @@ Detailed results for each model used.
 - [OpenAI o1](results/ChatGPT-o1.md)
 - [DeepSeek R1](results/DeepSeek-R1.md)
 - [Falcon 180B](results/Falcon-180B.md)
+- [Llama 3.1 405B](results/Llama-3.1-405B.md)
 
 ---
 
