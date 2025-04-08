@@ -6,7 +6,7 @@ This repository alocates the scripts and extra documentation of the paper submit
 + Rosana Montes
 + Francisco Herrera
 
-Keywords:
+**Keywords**:
 - Large Language Models,
 - Crowd Decision Making,
 - Sentiment Analysis,
@@ -23,6 +23,7 @@ Here is a Visual description of the evolution of the use of knowledge in Decisio
 Detailed results for each model used.
 
 - [ChatGPT 3.5 turbo](results/ChatGPT-3.5-turbo.md)
+- [OpenAI o1](results/ChatGPT-o1.md)
 
 ---
 

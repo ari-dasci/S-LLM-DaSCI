@@ -1,4 +1,4 @@
-## Detailed results for the scenario multi-criteria (ChatGPT 3.5 Turbo)
+# Detailed results for the scenario multi-criteria (ChatGPT 3.5 Turbo)
 
 The tables below present the sentiment analysis statistics associated with the multi-criteria scenario using **ChatGPT 3.5 Turbo**. The columns **#Positive**, **#Neutral**, and **#Negative** show the number of reviews for each sentiment polarity. The **#None** column represents reviews without opinions. The **Mean** column is the average numerical result estimated by ChatGPT for each category. The **Positive%** column indicates the percentage of positive reviews (excluding "None").
 
@@ -6,7 +6,7 @@ Each table corresponds to a specific restaurant and contains a breakdown by onto
 
 ---
 
-### Table: Sentiment frequency for *The Oxo Tower* restaurant
+## Table: Sentiment frequency for *The Oxo Tower* restaurant
 
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
@@ -26,7 +26,7 @@ Each table corresponds to a specific restaurant and contains a breakdown by onto
 
 ---
 
-### Table: Sentiment frequency for *The Wolseley* restaurant
+## Table: Sentiment frequency for *The Wolseley* restaurant
 
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
@@ -46,7 +46,7 @@ Each table corresponds to a specific restaurant and contains a breakdown by onto
 
 ---
 
-### Table: Sentiment frequency for *The Ivy* restaurant
+## Table: Sentiment frequency for *The Ivy* restaurant
 	
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
@@ -66,7 +66,7 @@ Each table corresponds to a specific restaurant and contains a breakdown by onto
 
 ---
 
-### Table: Sentiment frequency for *J. Sheekey* restaurant
+## Table: Sentiment frequency for *J. Sheekey* restaurant
 
 | Category                 | #Positive | #Neutral | #Negative | #None | Mean     | Positive% |
 |--------------------------|-----------|----------|-----------|-------|----------|-----------|
