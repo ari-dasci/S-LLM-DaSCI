@@ -18,5 +18,12 @@ Here is a Visual description of the evolution of the use of knowledge in Decisio
 
 ![evolution of the use of knowledge in Decision Making](evolution-DM.png) 
 
+## Results
+
+Detailed results for each model used.
+
+- [ChatGPT 3.5 turbo](results/ChatGPT-3.5-turbo.md)
+
+
 For more information visit [DaSCI institute](https://dasci.es) 
 
