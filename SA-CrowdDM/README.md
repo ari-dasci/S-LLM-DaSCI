@@ -26,6 +26,7 @@ Detailed results for each model used.
 - [ChatGPT 3.5 turbo](results/ChatGPT-3.5-turbo.md)
 - [OpenAI o1](results/ChatGPT-o1.md)
 - [DeepSeek R1](results/DeepSeek-R1.md)
+- [Falcon 180B](results/Falcon-180B.md)
 
 ---
 
