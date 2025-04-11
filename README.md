@@ -36,11 +36,11 @@ Below is an overview of the main directories in the repository, but more are und
 ---
 
 ## License
-...
+CC-By-NC-ND
 
 ---
 
 ## Contact
-...
+Rosana Montes (rosana at ugr.es)
 
 We appreciate your interest in the **LLM-DaSCI** repository. Thank you for helping us advance the field of Large Language Models.
